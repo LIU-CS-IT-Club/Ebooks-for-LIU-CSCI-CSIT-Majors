@@ -4,7 +4,7 @@ Archive for collecting all E-books for the Computer Science and Information Tech
 
 ### All Ebooks
 
-* [CSCI205](https://drive.google.com/file/d/1Ew_1n1n1xjaRY_eEkGFrzs4ZOOYc3tKE/view?usp=sharing) - Computer Science Overview
+* [CSCI205](https://drive.google.com/file/d/1Ew_1n1n1xjaRY_eEkGFrzs4ZOOYc3tKE/view?usp=sharing) - Computer Science Overview Course
 * [CSCI250](https://drive.google.com/file/d/1mV310IfH9UGI83lrXPSUNsQTCG_bOszC/view?usp=sharing) - Introduction to Programming Course 
 * [CSCI300](https://drive.google.com/file/d/1mV310IfH9UGI83lrXPSUNsQTCG_bOszC/view?usp=sharing) - Intermediate Programming Course
 * [CSIT335](https://drive.google.com/file/d/125TFpZXU9ecNhtL8nJPr7aPs053TQxwP/view?usp=sharing) - Database Systems Course
